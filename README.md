@@ -1,12 +1,5 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
-  ### :art: Color Reference
-| Color | Hex |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#263f76](https://via.placeholder.com/10/263f76?text=+) #263f76 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 </div>
 
 ###
@@ -60,6 +53,8 @@ I enjoy bridging factory-floor experience with software thinking — turning rea
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+
 
 ###
 
