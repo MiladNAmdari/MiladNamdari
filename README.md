@@ -8,7 +8,7 @@
 My name is Milad Namdari and I’m a Master’s student in Software Engineering and Management at University of Gothenburg / Chalmers, and I work as a maintenance and improvement technician at Vandewiele Sweden AB 
 
 
-<h2My background combines:</h2>
+<h 2My background combines:</h2>
 
 Industrial electronics, troubleshooting, and preventive maintenance Software development and internal tooling (C/C++, C#, SQL) Interest in project management, risk analysis, WBS, scheduling, and quality control.
 I enjoy bridging factory-floor experience with software thinking — turning real problems into structured, measurable, and well-documented solutions.
