@@ -8,18 +8,18 @@
 My name is Milad Namdari and I’m a Master’s student in Software Engineering and Management at University of Gothenburg / Chalmers, and I work as a maintenance and improvement technician at Vandewiele Sweden AB.
 
 
-<h2 My background combines:>
+<h2>My background combines: </h2> 
 
 Industrial electronics, troubleshooting, and preventive maintenance Software development and internal tooling (C/C++, C#, SQL) Interest in project management, risk analysis, WBS, scheduling, and quality control.
 I enjoy bridging factory-floor experience with software thinking — turning real problems into structured, measurable, and well-documented solutions.
 
-<h2 🔧 Technologies & Tools </h2>
+<h2> 🔧 Technologies & Tools </h2>
 
-<h2 Languages: > Python, C/C++, C#, JavaScript
+<h2> Languages: </h2> Python, C/C++, C#, JavaScript
 
-<h2 Tools & Platforms: > Git, Docker, Kubernetes, Helm, CI/CD (GitLab), Linux
+<h2> Tools & Platforms:</h2> Git, Docker, Kubernetes, Helm, CI/CD (GitLab), Linux
 
-<h2 Project Management: > WBS, Gantt, Risk Matrix, Earned Value (EVM)
+<h2> Project Management: </h2> WBS, Gantt, Risk Matrix, Earned Value (EVM)
 
 ###
 
