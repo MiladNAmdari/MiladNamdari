@@ -1,5 +1,12 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
+  ### :art: Color Reference
+| Color | Hex |
+| --------------- | ---------------------------------------------------------------- |
+| Primary Color | ![#263f76](https://via.placeholder.com/10/263f76?text=+) #263f76 |
+| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
+| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
+| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 </div>
 
 ###
